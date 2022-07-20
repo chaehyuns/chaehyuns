@@ -1,4 +1,4 @@
-# I'm ChaeHyun 🎈
+# Hi! I'm ChaeHyun 🎈
 
 >Sookmyung Women's University
 
