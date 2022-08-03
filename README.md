@@ -3,6 +3,7 @@
 > Sookmyung Women's University
 
 > Major in Computer Science
+
 > MADCAMP 2022 SUMMER  
 
 
