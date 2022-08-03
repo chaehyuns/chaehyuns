@@ -1,8 +1,11 @@
 # Hi! I'm ChaeHyun 🎈
 
->Sookmyung Women's University
+> Sookmyung Women's University
 
->Major in Computer Science
+> Major in Computer Science
+> MADCAMP 2022 SUMMER  
+
+
 <!--
 **chaehyuns/chaehyuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
