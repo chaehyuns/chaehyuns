@@ -1,10 +1,16 @@
 # Hi! I'm ChaeHyun 🎈
 
 > Sookmyung Women's University
-
+>
 > Major in Computer Science
 
-> MADCAMP 2022 SUMMER  
+> KAIST MADCAMP 2022 SUMMER
+> 
+> KUSITMS(한국대학생IT경영학회) DEVELOPMENT TEAM
+> 
+> NAVER Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
+> 
+> Sookmyung Ambassador for Leadership ABLE 
 
 
 <!--
