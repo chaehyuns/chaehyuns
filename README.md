@@ -16,7 +16,7 @@
 > 
 > NAVER : Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
-> Sookmyung Women's University: Ambassador for Leadership - ABLE 
+> Sookmyung Women's University : Ambassador for Leadership - ABLE 
 
 
 <!--
