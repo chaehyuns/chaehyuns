@@ -6,7 +6,7 @@
 
 > KUSITMS(한국대학생IT경영학회) 27th DEVELOPMENT :
 > 
-> KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT : Tikkle TEAM - 금융 습관 챌린지 APP 
+> KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT : Tikkle TEAM - 소비 습관 챌린지 APP 
 >
 > Groomthon in JEJU 3rd - Goofy TEAM : 서핑 뉴비를 위한 파도 알고리즘 APP
 > 
