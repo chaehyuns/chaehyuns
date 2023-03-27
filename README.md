@@ -11,12 +11,12 @@
 > Groomthon in JEJU 3rd - Goofy Team : 서핑 뉴비를 위한 파도 알고리즘 APP
 >
 > Sookmyung-Software-Hackathon(SMSH) - 13 TEAM : 새 삶을 선물하는 여행, Draveling ✈️
+
+>  KAIST : MADCAMP 2022 SUMMER
 > 
->  KAIST MADCAMP 2022 SUMMER
+> NAVER : Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
-> NAVER Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
-> 
-> Sookmyung Ambassador for Leadership ABLE 
+> Sookmyung : Ambassador for Leadership - ABLE 
 
 
 <!--
