@@ -8,7 +8,7 @@
 > 
 > KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT - Tikkle TEAM - 금융 습관 챌린지 APP 
 >
-> Groomthon in JEJU 3rd - Goofy T : 서핑 뉴비를 위한 파도 알고리즘 APP
+> Groomthon in JEJU 3rd - Goofy TEAM : 서핑 뉴비를 위한 파도 알고리즘 APP
 >
 > Sookmyung-Software-Hackathon(SMSH) - 13 TEAM : 새 삶을 선물하는 여행, Draveling ✈️
 
