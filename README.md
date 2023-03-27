@@ -4,11 +4,15 @@
 >
 > Major in Computer Science
 
-> KAIST MADCAMP 2022 SUMMER
+> KUSITMS(한국대학생IT경영학회) 27th DEVELOPMENT - TEAM
 > 
-> KUSITMS(한국대학생IT경영학회) DEVELOPMENT TEAM
+> KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT - Tikkle TEAM - 금융 습관 챌린지 APP 
 >
-> Groomthon in JEJU 3rd - Goofy Team
+> Groomthon in JEJU 3rd - Goofy Team : 서핑 뉴비를 위한 파도 알고리즘 APP
+>
+> Sookmyung-Software-Hackathon(SMSH) - 13 TEAM : 새 삶을 선물하는 여행, Draveling ✈️
+> 
+>  KAIST MADCAMP 2022 SUMMER
 > 
 > NAVER Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
