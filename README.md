@@ -7,6 +7,8 @@
 > KAIST MADCAMP 2022 SUMMER
 > 
 > KUSITMS(한국대학생IT경영학회) DEVELOPMENT TEAM
+>
+> Groomthon in JEJU 3rd - Goofy Team
 > 
 > NAVER Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
