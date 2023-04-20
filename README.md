@@ -4,6 +4,8 @@
 >
 > Major in Computer Science
 
+### 프로젝트
+
 > KUSITMS(한국대학생IT경영학회) 27th DEVELOPMENT :
 > 
 > KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT : Tikkle TEAM - 소비 습관 챌린지 APP 💵
@@ -13,6 +15,8 @@
 > Kukathon 1st - Together Team : 당신의 온길이 온기가 되다, Ongil APP 🦺
 >
 > Sookmyung Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling WEB ✈️
+
+### 활동
 
 >  KAIST : MADCAMP 2022 SUMMER
 > 
@@ -39,6 +43,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuns&layout=compact)](https://github.com/chaehyuns/github-readme-stats)
  -->
  
- ## My GitHb Stats 🪄
+ ### My GitHb Stats 🪄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
 
