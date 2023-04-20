@@ -12,7 +12,7 @@
 > 
 > Kukathon 1st - Together Team : 당신의 온길이 온기가 되다, Ongil APP
 >
-> Sookmyung Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling ✈️
+> Sookmyung Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling WEP✈️ 
 
 >  KAIST : MADCAMP 2022 SUMMER
 > 
