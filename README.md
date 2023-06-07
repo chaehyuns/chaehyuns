@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuns&layout=compact)](https://github.com/chaehyuns/github-readme-stats)
  -->
  
- ### My GitHb Stats 🪄
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
+ ### My GitHub Stats 🪄
+![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
 
