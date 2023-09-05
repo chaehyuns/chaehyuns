@@ -19,6 +19,7 @@
 > Kukathon 1st - Together Team : 당신의 온길이 온기가 되다, Ongil APP 🦺
 >
 > Sookmyung Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling WEB ✈️
+> 
 
 ### 활동
 
@@ -26,26 +27,17 @@
 > 
 > NAVER : Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
-> Sookmyung Women's University : Ambassador for Leadership - ABLE 
+> Sookmyung Women's University : Ambassador for Leadership - ABLE
+> 
 
+### 릴리즈
 
-<!--
-**chaehyuns/chaehyuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuns&layout=compact)](https://github.com/chaehyuns/github-readme-stats)
- -->
+> 티끌 Google Play Store : https://play.google.com/store/apps/details?id=com.team7.tikkle
+> 
+> <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/ac1ca946-b0b9-4180-801e-2b0f584de35f">
+>
+>  티끌 팀블로그 : https://about-tikkle.tistory.com/
+> 
  
  ### My GitHub Stats 🪄
 ![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
