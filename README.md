@@ -1,8 +1,16 @@
 # I'm ChaeHyun 🔭
 
+> <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/44ad7032-acb3-4d92-bd5f-cc04ed83a878">
+> 
 > Sookmyung Women's University
 >
 > Major in Computer Science
+> 
+> 📩 Contact : wjdcogus202@sookmyung.ac.kr
+>
+> 📲 SNS : https://www.instagram.com/chaeehyuny/
+>
+
 
 ### 프로젝트
 
@@ -33,11 +41,12 @@
 ### 릴리즈
 
 > 티끌 Google Play Store : https://play.google.com/store/apps/details?id=com.team7.tikkle
+>
+> 티끌 팀블로그 : https://about-tikkle.tistory.com/
 > 
 > <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/ac1ca946-b0b9-4180-801e-2b0f584de35f">
 >
->  티끌 팀블로그 : https://about-tikkle.tistory.com/
-> 
+
  
  ### My GitHub Stats 🪄
 ![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
