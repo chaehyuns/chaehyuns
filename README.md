@@ -47,7 +47,8 @@
 > <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/ac1ca946-b0b9-4180-801e-2b0f584de35f">
 >
 
- 
+ <!--
  ### My GitHub Stats 🪄
 ![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
 
+-->
