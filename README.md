@@ -18,6 +18,8 @@
 >
 > 공공데이터 공모전 : GreenRanger Team - 외국인을 위한 서울 비건 식당 추천 APP 🥬
 >
+> 시스템 종합 설계(졸업 작품) : NyanChain TEAM - 블록체인을 활용한 비건 및 친환경 인증 확인 APP 🫒
+> 
 > KUSITMS(한국대학생IT경영학회) 27th DEVELOPMENT :  Hot6 TEAM - 취향 기반 장소 추천 APP 👾
 > 
 > KUSITMS(한국대학생IT경영학회) 26th DEVELOPMENT : Tikkle TEAM - 소비 습관 챌린지 APP 💵
