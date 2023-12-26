@@ -10,6 +10,7 @@
 >
 > 📲 SNS : https://www.instagram.com/chaeehyuny/
 >
+> ✏️ Velog : https://velog.io/@wjdcogus6/series
 
 
 ### 프로젝트
