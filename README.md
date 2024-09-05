@@ -1,14 +1,12 @@
 # I'm ChaeHyun 🔭
 
 > <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/44ad7032-acb3-4d92-bd5f-cc04ed83a878">
-> 
-> Sookmyung Women's University
 >
 > Major in Computer Science
 > 
-> 📩 Contact : wjdcogus202@sookmyung.ac.kr
+> 📩 Contact : wjdcogus6@gmail.com
 >
-> 📲 SNS : https://www.instagram.com/chaeehyuny/
+> 📲 SNS : https://www.linkedin.com/in/chaehyuns/
 >
 > ✏️ Velog : https://velog.io/@wjdcogus6/series
 
@@ -29,16 +27,16 @@
 > 
 > Kukathon 1st - Together Team : 당신의 온길이 온기가 되다, Ongil APP 🦺
 >
-> Sookmyung Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling WEB ✈️
+> University Software Hackathon(SMSH) 2nd - 13 TEAM : 새 삶을 선물하는 여행, Draveling WEB ✈️
 > 
 
 ### 활동
 
->  KAIST : MADCAMP 2022 SUMMER
+> KAIST : MADCAMP 2022 SUMMER
 > 
 > NAVER : Connect College Student Mentor PLAY WITH SW/AI - AIR TEAM
 > 
-> Sookmyung Women's University : Ambassador for Leadership - ABLE
+> University Ambassador for Leadership - ABLE
 > 
 
 ### 릴리즈
