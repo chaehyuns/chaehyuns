@@ -47,14 +47,18 @@
 >
 > <img width="400" alt="스크린샷 2024-10-29 오후 1 27 42" src="https://github.com/user-attachments/assets/e15c6b90-e71b-475f-abce-2c02c5ff5d93">
 > 
-> 티끌 Google Play Store : https://play.google.com/store/apps/details?id=com.team7.tikkle
+> 티끌 Google Play Store (서비스 종료) : https://play.google.com/store/apps/details?id=com.team7.tikkle
 >
 > 티끌 팀블로그 : https://about-tikkle.tistory.com/
 > 
 > <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/ac1ca946-b0b9-4180-801e-2b0f584de35f">
 > 
-
+> SeoulForVeggie One Store (서비스 종료) : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000769718
 >
+> <img width="400" alt="스크린샷 2024-10-29 오후 1 29 29" src="https://github.com/user-attachments/assets/2a3722ff-d64d-4a33-96bb-0dabf28cd1d9">
+>
+
+
  <!--
  ### My GitHub Stats 🪄
 ![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyuns&show_icons=true&theme=dracula)
