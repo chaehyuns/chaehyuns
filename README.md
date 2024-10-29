@@ -41,12 +41,19 @@
 
 ### 릴리즈
 
+> 총대마켓 Google play Store : https://play.google.com/store/apps/details?id=com.zzang.chongdae
+>
+> 총대마켓 팀블로그 : https://silent-apparatus-578.notion.site/7b2bd9856c214a2e8d6fa730935cfef8?pvs=74
+>
+> <img width="400" alt="스크린샷 2024-10-29 오후 1 27 42" src="https://github.com/user-attachments/assets/e15c6b90-e71b-475f-abce-2c02c5ff5d93">
+> 
 > 티끌 Google Play Store : https://play.google.com/store/apps/details?id=com.team7.tikkle
 >
 > 티끌 팀블로그 : https://about-tikkle.tistory.com/
 > 
 > <img width="400" alt="image" src="https://github.com/chaehyuns/chaehyuns/assets/80222352/ac1ca946-b0b9-4180-801e-2b0f584de35f">
->
+> 
+
 >
  <!--
  ### My GitHub Stats 🪄
