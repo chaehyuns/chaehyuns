@@ -13,6 +13,9 @@
 
 ### 프로젝트
 
+>
+> 우아한테크코스 : Chongdaemarket Team - 더 저렴하게, 원하는 만큼만, 내가 직접 만드는 공동구매 총대마켓 APP ⛳️
+>
 > 새싹톤 : Angam Team - 입찰 시스템 기반 의류 중고 거래 APP 👕
 >
 > 공공데이터 공모전 : GreenRanger Team - 외국인을 위한 서울 비건 식당 추천 APP 🥬
